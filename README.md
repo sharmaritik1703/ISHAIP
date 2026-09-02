@@ -1,1 +1,1 @@
-Human perception of artificial intelligence dataset collected in rural villages in Himachal Pradesh
+Healthcare professionals’ perceptions of artificial intelligence, collected across all districts of Himachal Pradesh through a Google Form
